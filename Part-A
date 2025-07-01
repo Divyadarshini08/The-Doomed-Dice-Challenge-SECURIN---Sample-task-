@@ -15,7 +15,6 @@ Part-A (15–20 Minutes):
    Hint: A 6 x 6 Matrix.
 3. Calculate the probability of all possible sums occurring among the number of combinations from (2).
    Example: P(Sum = 2) = 1/X as there is only one combination possible to obtain Sum = 2. Die A = Die B = 1
-*/
 
 ```java
 import java.util.*;
