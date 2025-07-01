@@ -1,4 +1,3 @@
-```java
 import java.util.*;
 class Calculate{
 	public void Dice_Combo(int[] Dice1,int[] Dice2) {
